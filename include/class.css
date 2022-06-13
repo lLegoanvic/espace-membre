@@ -1,0 +1,53 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(41, 106, 192, 0.92);
+    height: 100vh;
+}
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    border: 1px solid #9C9C9C;
+    max-width: 600px;
+    background-color: #EAEAEA;
+}
+.connexion{
+    height: 350px;
+}
+
+.inscription {
+    height: 450px;
+}
+
+.modifpassword {
+    height: 375px;
+}
+
+.modifprofil {
+    height: 250px;
+}
+
+.passwordforget {
+    height: 250px;
+}
+
+.passwordreinit{
+    height: 375px;
+}
+
+.profil {
+    height: 350px;
+}
+
+.padding-top {
+    padding-top: 100px;
+}
+
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+
+#login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+}
